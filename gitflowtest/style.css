@@ -1,0 +1,27 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 8px;
+    overflow: hidden;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    padding-left: 450px;
+    padding-top: 20px;
+  }
+  
+  button{
+    width: 150px;
+    background-color: rgb(6, 6, 7);
+    color: #ffffff;
+    border: none;
+    padding: 12px;
+    margin: 3px;
+    border-radius: 5px;
+    float: right;
+  }
