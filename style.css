@@ -1,0 +1,11 @@
+#page{
+    background-color: rgb(250, 215, 247); 
+  } 
+   
+   #image{
+    width: 500px;
+    height: 520px;
+    margin-left: 120px;
+    padding-left: 400px;
+    padding-top: 20px;
+}
